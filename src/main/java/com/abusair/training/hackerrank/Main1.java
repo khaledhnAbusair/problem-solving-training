@@ -2,7 +2,7 @@ package com.abusair.training.hackerrank;
 
 public class Main1 {
     public static void main(String[] args) {
-        int arr[] = {-4, 3, -9, 0, 4, 1};
+        int[] arr = {-4, 3, -9, 0, 4, 1};
         plusMinus(arr);
     }
 
